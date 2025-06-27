@@ -62,8 +62,3 @@ This dashboard can be used by:
 - **Power Query**
 - **Ecommerce Sales Dataset (Sample/Mock Data)**
 
----
-
-## 🖼️ Dashboard Preview
-
-![Dashboard Preview](Dashboard Preview.png)
